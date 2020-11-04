@@ -1,16 +1,16 @@
 # To install, follow the instructions
 Run:
 curl -L https://github.com/cccoder123/x86_arm/Install.zip
-unzip Install.zip
+then unzip Install.zip
 
 # To turn on 
 Run:
-cd Install
+cd Install &&
 ./turn_on.sh
 
 # To turn off
 Run 
-cd Install
+cd Install &&
 ./turn_off.sh
 
 
